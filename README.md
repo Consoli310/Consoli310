@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Consoli</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on **product-store**
+- 🔭 I’m currently working on **api-resume-generator**
 
-- 💬 Ask me about **java, node and go**
+- 💬 Ask me about **java and spring boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
