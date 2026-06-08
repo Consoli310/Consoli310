@@ -81,15 +81,3 @@ https://github.com/Consoli310/ai-resume-generator
 LinkedIn
 </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Consoli310&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoli310&layout=compact" />
-</p>
